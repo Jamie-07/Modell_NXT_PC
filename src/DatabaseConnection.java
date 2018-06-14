@@ -21,8 +21,8 @@ import java.util.logging.Logger;
 public class DatabaseConnection {
     
     private ConnectionSource cs = null;
-    private static final String USER = "root";
-    private static final String PASSWORD = "master2018?";
+    private static final String USER = "*********";
+    private static final String PASSWORD = "********";
     private static final String URL = "jdbc:mysql://localhost:8888/nxt_cloud";
     
     public DatabaseConnection() {
